@@ -1,0 +1,21 @@
+div {
+    background-color: rgb(232, 226, 202);
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: cursive;
+    color: black;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+img{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
